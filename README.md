@@ -9,11 +9,9 @@ I am a passionate and curious student who loves to explore the world of technolo
 
 ## 🔭 Projects
 
-#### Project 1: Personal Portfolio Website
-A responsive personal portfolio website showcasing my skills and projects. Built with HTML, CSS, and vanilla JavaScript.
+#### Project 1: JTL Shop Video Plugin for my internship project
 
-#### Project 2: Movie Recommendation System
-A collaborative filtering movie recommendation system using Python and Pandas. The model suggests similar movies based on user preferences.
+#### Project 2: Pizza Shop Project
 
 #### Project 3: Twitter Sentiment Analysis
 An NLP project that performs sentiment analysis on tweets using Python, Tweepy, and TextBlob.
