@@ -3,18 +3,9 @@
 
 I am a passionate and curious student who loves to explore the world of technology and coding. Currently pursuing a Bachelor's degree in Computer Science, I am enthusiastic about learning new programming languages, tools, and frameworks.
 
-## 🌱 What I'm Learning
-- HTML, CSS, JavaScript
-- Java, Python, Object Oriented Programming
-
 ## 🔭 Projects
 
 #### Project 1: JTL Shop Video Plugin for my internship project
-
-#### Project 2: Pizza Shop Project
-
-#### Project 3: Twitter Sentiment Analysis
-An NLP project that performs sentiment analysis on tweets using Python, Tweepy, and TextBlob.
 
 ## 🤝 I'm Open to Collaboration
 
@@ -31,12 +22,12 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on :  JTL Shop Video Plugin for my internship project.
+- 🌱 I’m currently learning : HTML, CSS, JavaScript, Java, Python, and Object Oriented Programming.
+- 👯 I’m looking to collaborate on : Exciting open-source projects and initiatives that need contributions.
+- 🤔 I’m looking for help with : Anything related to my ongoing projects or learning journey.
+- 💬 Ask me about : Anything tech-related, programming languages, projects, or coding in general.
+- 📫 How to reach me : You can reach me via email at ruyabozcan@gmail.com or find me on LinkedIn.
+- 😄 Pronouns : Feel free to refer to me using she/her pronouns.
+- ⚡ Fun fact : I love exploring new hiking trails whenever I get a chance!
 -->
