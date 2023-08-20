@@ -24,4 +24,6 @@ You can reach me via email at ruyabozcan@gmail.com or find me on [LinkedIn](http
 
 I'm always excited to work on new and interesting projects. If you have any open-source projects or initiatives that need contributions, feel free to reach out!
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. Don't forget to leave a star if you find anything interesting. Happy coding! 😄
+Thank you for visiting my GitHub profile!🚀
+Feel free to explore my repositories and projects.⭐🌱
+Don't forget to leave a star if you find anything interesting. Happy coding! 😄
