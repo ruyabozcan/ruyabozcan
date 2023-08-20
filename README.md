@@ -10,7 +10,7 @@ I am a passionate and curious student who loves to explore the world of technolo
 - 💬 Ask me about : Anything tech-related, programming languages, projects, or coding in general.
 - 📫 How to reach me : You can reach me via email at ruyabozcan@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/r%C3%BCya-bozcan-436425255/).
 - 😄 Pronouns : Feel free to refer to me using she/her pronouns.
-- ⚡ Fun fact : I love exploring new hiking trails whenever I get a chance!
+- ⚡ Fun fact : Valorant is a game I'm passionate about, and Neon stands out as the agent I find the most pleasure in playing.
 
 ## 📫 Let's Connect
 
