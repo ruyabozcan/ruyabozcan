@@ -4,7 +4,7 @@
 I am a passionate and curious student who loves to explore the world of technology and coding. Currently pursuing a Bachelor's degree in Computer Science, I am enthusiastic about learning new programming languages, tools, and frameworks.
 
 - 🔭 I’m currently working on :  JTL Shop Video Plugin for my internship project.
-- 🌱 I’m currently learning : HTML, CSS, JavaScript, Java, Python, and Object Oriented Programming.
+- 🌱 I’m currently learning : HTML, CSS, JavaScript, Java, PHP, Python, and Object Oriented Programming.
 - 👯 I’m looking to collaborate on : Exciting open-source projects and initiatives that need contributions.
 - 🤔 I’m looking for help with : Anything related to my ongoing projects or learning journey.
 - 💬 Ask me about : Anything tech-related, programming languages, projects, or coding in general.
