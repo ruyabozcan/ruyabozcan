@@ -18,9 +18,9 @@ You can reach me via email at ruyabozcan@gmail.com or find me on [LinkedIn](http
 
 ## 🔭 Projects
 
-### Project 1: JTL Shop Video Plugin for my internship project
-### Ground Operations Internship - SunExpress
-### I’m currently working on :  JTL Shop Video Plugin for my internship project.
+### JTL Shop Video Plugin for my internship project
+### Ground Operations at SunExpress
+### I’m currently working at SunExpress as an Ground Operations Intern
 ### 🤝 I'm Open to Collaboration
 
 I'm always excited to work on new and interesting projects. If you have any open-source projects or initiatives that need contributions, feel free to reach out!
