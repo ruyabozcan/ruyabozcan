@@ -8,7 +8,7 @@ I am a passionate and curious student who loves to explore the world of technolo
 - 👯 I’m looking to collaborate on : Exciting open-source projects and initiatives that need contributions.
 - 🤔 I’m looking for help with : Anything related to my ongoing projects or learning journey.
 - 💬 Ask me about : Anything tech-related, programming languages, projects, or coding in general.
-- 📫 How to reach me : You can reach me via email at ruyabozcan@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/r%C3%BCya-bozcan-436425255/).
+- 📫 How to reach me : You can reach me via find me on [LinkedIn](https://www.linkedin.com/in/r%C3%BCya-bozcan-436425255/).
 - 😄 Pronouns : Feel free to refer to me using she/her pronouns.
 - ⚡ Fun fact : I love computer games very much.
 
